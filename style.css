@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+input, button {
+    margin: 5px;
+    padding: 8px;
+}
+table {
+    border-collapse: collapse;
+}
+th {
+    background-color: #eee;
+}
